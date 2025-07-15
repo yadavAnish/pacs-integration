@@ -39,4 +39,4 @@ jobs:
           file: package/docker/dcm4chee/Dockerfile
           no-cache: true
           push: true
-          tags: bahmni/dcm4chee:${{env.ARTIFACT_VERSION}},bahmni/dcm4chee:latest
+          tags: anish443/dcm4chee:${{env.ARTIFACT_VERSION}},bahmni/dcm4chee:latest
