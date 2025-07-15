@@ -48,4 +48,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           file: package/docker/pacs-integration/Dockerfile
           push: true
-          tags: bahmni/pacs-integration:${{env.ARTIFACT_VERSION}},bahmni/pacs-integration:latest
+          tags: anish443/pacs-integration:${{env.ARTIFACT_VERSION}},bahmni/pacs-integration:latest
