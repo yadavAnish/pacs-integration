@@ -1,4 +1,4 @@
-name: Build and Publish PACS Integration
+name: Publish PACS Integration
 on:
   push:
     branches:
